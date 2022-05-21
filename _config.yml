@@ -1,6 +1,6 @@
 theme: minima
-title: Welcome to Milo on GitHub
-author: milodubois
+title: Milo on GitHub
+author: Milo DuBois
 description: > # this means to ignore newlines until "baseurl:"
   This simple blog, by Milo, is a GitHub page made with Jekyll as a product of the GitHub Pages tutorial.
 
